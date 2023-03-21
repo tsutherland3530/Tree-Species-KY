@@ -1,5 +1,5 @@
 # Tree-Species-KY
-This is a Data 1 Analysis project for code KY looking to ask the question: Which tree species are growing in your area?
+This is a Data 1 Analysis project for code KY looking to answer the question: Which tree species are growing in your area?
 
 Follow these steps in order and to activate and run a new python program comparing the data one tree species in your area.
 
